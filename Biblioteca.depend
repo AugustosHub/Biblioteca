@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1694035481 source:c:\users\administrador\desktop\unvime\programación\c\segundocuatrimestre\tp2\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<wchar.h>
+	<locale.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+
